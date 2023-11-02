@@ -7,6 +7,8 @@
 - Pagination applied | Only limited number of product display on the page
 - Sorting used and user can filter products according to their choice
 
+![image](https://github.com/22tushar/ShopIn/assets/86909566/e20b4a2c-b8a7-4738-acfd-ccf0ecff04b7)
+
 Products
 -![image](https://github.com/22tushar/ShopIn/assets/86909566/70079a4b-969f-41ba-8191-827b657e859e)
 
