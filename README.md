@@ -3,10 +3,9 @@
 
 - Beauty UI similar to ecommerce website
 - Fully responsive and mobile friendly
-- User can add items to cart
 - User can view details of an item
-- User can show total price in cart
-- In Item page user can add quantity of item to cart instead of click add more and more 
+- Pagination applied | Only limited number of product display on the page
+- Sorting used and user can filter products according to their choice 
 
 ## 🚀 What technologies were used?
 
