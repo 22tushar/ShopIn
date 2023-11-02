@@ -1,9 +1,5 @@
-# Maltimart Ecommerce
 
-## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
-
-## 😎 Features
+## Features
 
 - Beauty UI similar to ecommerce website
 - Fully responsive and mobile friendly
